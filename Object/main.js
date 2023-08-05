@@ -44,3 +44,5 @@ var author = new User('Linh','Nguyễn','img');
 var user = new User('Linh','Nguyễn','Thuy');
 console.log(author);
 console.log(user);
+
+
